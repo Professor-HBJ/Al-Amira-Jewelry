@@ -1,4 +1,4 @@
-<script>
+
 // socialCircle, an animated circular display of icons
 // by Carrie Short
 // http://carrieshort.com
@@ -109,4 +109,3 @@
 	};
  
 }( jQuery ));
-</script>
